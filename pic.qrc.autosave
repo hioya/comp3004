@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic/loginUI">
+        <file>Carleton-University.png</file>
+        <file>CU.png</file>
+    </qresource>
+</RCC>
