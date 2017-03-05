@@ -169,7 +169,7 @@
      </property>
     </widget>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="view">
     <property name="geometry">
      <rect>
       <x>600</x>
@@ -192,7 +192,7 @@
      <string>VIEW</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="manage">
     <property name="geometry">
      <rect>
       <x>600</x>
@@ -215,7 +215,7 @@
      <string>MANAGE</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="logOut">
     <property name="geometry">
      <rect>
       <x>600</x>

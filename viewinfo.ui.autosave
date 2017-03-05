@@ -13,7 +13,7 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QPushButton" name="view">
+  <widget class="QPushButton" name="filterList">
    <property name="geometry">
     <rect>
      <x>590</x>
@@ -36,7 +36,7 @@
     <string>FILTER LIST</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="manage">
+  <widget class="QPushButton" name="GeneratePayroll">
    <property name="geometry">
     <rect>
      <x>590</x>
@@ -204,7 +204,7 @@
     </property>
    </widget>
   </widget>
-  <widget class="QPushButton" name="logOut">
+  <widget class="QPushButton" name="viewSummary">
    <property name="geometry">
     <rect>
      <x>590</x>
@@ -224,7 +224,7 @@
 }</string>
    </property>
    <property name="text">
-    <string>Summary</string>
+    <string>SUMMARY</string>
    </property>
   </widget>
   <widget class="QTableView" name="tableView">
@@ -237,7 +237,7 @@
     </rect>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="back">
    <property name="geometry">
     <rect>
      <x>660</x>

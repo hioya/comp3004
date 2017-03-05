@@ -8,7 +8,17 @@ login::login(QWidget *parent) :
     ui->setupUi(this);
 }
 
+login::login()
+{
+
+}
+
 login::~login()
 {
     delete ui;
+}
+
+void login::on_loginAsPSUser_clicked()
+{
+
 }

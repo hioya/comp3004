@@ -1,2 +1,9 @@
-<RCC/>
-
+<RCC>
+    <qresource prefix="/loginUI">
+        <file>Carleton-University.png</file>
+        <file>CU.png</file>
+    </qresource>
+    <qresource prefix="/psMenu">
+        <file>psMenuBG.png</file>
+    </qresource>
+</RCC>

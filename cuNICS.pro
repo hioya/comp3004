@@ -13,11 +13,28 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp \
-    mainwindow.cpp
+    login.cpp \
+    psmenu.cpp \
+    viewinfo.cpp \
+    viewsummary.cpp \
+    editattributes.cpp \
+    applyraise.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += \
+    login.h \
+    psmenu.h \
+    viewinfo.h \
+    viewsummary.h \
+    editattributes.h \
+    applyraise.h
 
-FORMS    += mainwindow.ui
+FORMS    += \
+    login.ui \
+    psmenu.ui \
+    viewinfo.ui \
+    viewsummary.ui \
+    editattributes.ui \
+    applyraise.ui
 
 RESOURCES += \
     pic.qrc
